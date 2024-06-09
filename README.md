@@ -2,12 +2,15 @@
 Ease of calculating debts using cloud databases
 
 ## 🚀&nbsp; Installation the required packages
+Create a project on [FireBase](https://console.firebase.google.com/).
+## Install Packages
 ```
 $ pip install customtkinter
 ```
 ```
 $ pip install firebase_admin
 ```
+Replace your project file in Firebase [data_service](https://github.com/mojtaba-almayhay/Firebase-financial-transaction-management/blob/main/config/data_service.json).
 
 
 ####          
