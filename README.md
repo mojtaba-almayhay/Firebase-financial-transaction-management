@@ -11,8 +11,9 @@ $ pip install customtkinter
 $ pip install firebase_admin
 ```
 Replace your project file in Firebase [data_service](https://github.com/mojtaba-almayhay/Firebase-financial-transaction-management/blob/main/config/data_service.json).
-
-
+## 
+Change your link in line seven 7 [db](https://github.com/mojtaba-almayhay/Firebase-financial-transaction-management/blob/main/config/db.py).
+## 
 ####          
 ![](https://github.com/mojtaba-almayhay/Firebase-financial-transaction-management/blob/main/screens/screen1.PNG)
 ####
